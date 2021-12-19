@@ -1,0 +1,10 @@
+[{
+    "_id": 123,
+    "frequency": {
+        "type": "yearly",
+        "offset": "3",
+        "schedule": "fixed"
+    },
+    "tags": ["cleaning"],
+    "name": "HVCP inspection"
+}]

@@ -1,0 +1,24 @@
+[{
+    "_id": 1,
+    "name": "Purchasing New Projector",
+    "createtime": {
+        "$date": "2021-11-01T00:00:05.5640Z"
+    },
+    "background": "Hoping to replacing <a>xxx</a>",
+    "options": [{
+        "name": "Option1",
+        "subject": "Don't buy"
+
+    }]
+}]
+Plant
+* Plant to harvest every 2/3 month
+
+* 4k Project (Buying Epson 3800)
+    * on $200 discount; available on bhphto with tax free
+    * good response time, brightness, decent contrast ratio
+    * acceptable fan noise, bluetooth audio support
+    * vs competitor: better than epson 3200 because latter has no discount and double contrast
+    * vs competitor: a few hundreds cheaper than epson 4010 with the latter no significant advantage
+    * use for viewing paintings, hd movie, racing/flighting game?
+    * chrome cast tv
